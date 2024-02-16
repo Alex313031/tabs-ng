@@ -1,17 +1,17 @@
 {
   "name": "tabs",
-  "version": "0.110.2",
+  "version": "0.110.3",
   "main": "./lib/main",
   "description": "Display a selectable tab for each editor open.",
   "license": "MIT",
-  "repository": "https://github.com/atom/tabs",
+  "repository": "https://github.com/Alex313031/tabs-ng",
   "engines": {
     "atom": ">=1.17.0"
   },
   "dependencies": {
-    "fs-plus": "^3.0.0",
-    "temp": "~0.8.1",
-    "underscore-plus": "1.x"
+    "fs-plus": "^3.1.1",
+    "temp": "0.9.4",
+    "underscore-plus": "^1.7.0"
   },
   "consumedServices": {
     "atom.file-icons": {
